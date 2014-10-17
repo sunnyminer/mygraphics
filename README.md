@@ -1,5 +1,5 @@
 mygraphics
 ==========
 
-It's my computer graphics homework :)
-aha~
+It's a teenager's computer graphics homework :)
+
