@@ -1,1 +1,1 @@
-de_casteljau算法的MFC实现
+这是de_casteljau算法的MFC实现
